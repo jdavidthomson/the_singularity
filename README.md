@@ -1,6 +1,6 @@
 # the_singularity
 
-The Singularity is to be the singularity that we all know will eventually come.  It will link all forms of existing AI and ML forming someting that can learn and do intellectual tasks on its own.
+The Singularity is to be the singularity that we all know will eventually come.  It will link all forms of existing AI and ML forming something that can learn and do intellectual tasks on its own.
 
 It will be comprised of the following things or properties:
  - a distributed messaging queue
